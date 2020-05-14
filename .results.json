@@ -5,9 +5,9 @@
     "passes": 14,
     "pending": 0,
     "failures": 0,
-    "start": "2018-10-30T17:12:18.788Z",
-    "end": "2018-10-30T17:12:18.821Z",
-    "duration": 33
+    "start": "2020-05-14T23:04:54.348Z",
+    "end": "2020-05-14T23:04:54.403Z",
+    "duration": 55
   },
   "tests": [
     {
@@ -48,7 +48,7 @@
     {
       "title": "assigns a default prop of 'Unknown' for the title prop",
       "fullTitle": "<MovieCard /> assigns a default prop of 'Unknown' for the title prop",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -90,14 +90,14 @@
     {
       "title": "correctly renders the genres prop as comma seperated strings",
       "fullTitle": "<CardBack /> correctly renders the genres prop as comma seperated strings",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 4,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
@@ -150,7 +150,7 @@
     {
       "title": "assigns a default prop of 'Unknown' for the title prop",
       "fullTitle": "<MovieCard /> assigns a default prop of 'Unknown' for the title prop",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
@@ -192,14 +192,14 @@
     {
       "title": "correctly renders the genres prop as comma seperated strings",
       "fullTitle": "<CardBack /> correctly renders the genres prop as comma seperated strings",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
       "fullTitle": "<CardBack /> renders 'No Rating Found' in an <h4> if the IMDBRating prop is null",
-      "duration": 4,
+      "duration": 3,
       "currentRetry": 0,
       "err": {}
     },
